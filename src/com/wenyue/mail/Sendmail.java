@@ -15,7 +15,7 @@ public class Sendmail extends Thread {
 
 	private String from = "wswenyue@126.com";
 	private String username = "wswenyue";
-	private String password = "294148946";
+	private String password = "****";
 	private String host = "smtp.126.com";
 	
 	private User user; 
